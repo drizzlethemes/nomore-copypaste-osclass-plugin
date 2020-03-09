@@ -1,0 +1,2 @@
+# Nomore Copypaste
+### Osclass Plugin
