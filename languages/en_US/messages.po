@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Osclass 3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-04 06:08+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rahamathullah <drizzlethemes@gmail.com>\n"
+"Language-Team: DrizzleThemes <drizzlethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Nomore copy/paste settings has been updated"
+msgstr ""
+
+msgid "Nomore Copy/Paste"
+msgstr ""
+
+msgid "Paste is not allowed"
+msgstr ""
+
+msgid "Nomore Copy/Paste Settings"
+msgstr ""
+
+msgid "Enter field id/class name to disable paste option"
+msgstr ""
+
+msgid "Add more id/class names by adding comma"
+msgstr ""
+
+msgid "Nomore Copy/Paste Plugin"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
